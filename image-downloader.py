@@ -54,8 +54,3 @@ def main():
 
 if __name__ == '__main__':
 	main()
-
-# pi.download("Mango Senthoora",limit=5)
-# pi.download("Apple Royal Gala",limit=5)
-# pi.download("Banana Karpooravalli",limit=5)
-# pi.download("Banana Poovan",limit=5)
