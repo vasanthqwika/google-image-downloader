@@ -1,0 +1,1 @@
+pygoogle-image==1.0.0
